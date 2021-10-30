@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mosasaurus11
-- 👀 I’m interested in leraning pharo programming
-- 🌱 I’m currently learning pharo programming
+- 👀 I’m interested in roblox lua
+- 🌱 I’m currently learning roblox lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
